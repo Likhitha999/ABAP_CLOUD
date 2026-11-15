@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_BOOK_GENERATE_DATA========CCAU.abap",
+   "fingerprint":"s7KHGBrahgB7mMxU/kQLOrgxl8Eu/i5dFG0Ki2mUb0aGyF4bGyDyDvSusJnns2xBYEqQ9wNYlW9dum/EU9i7zw=="
+  },
+  {
+   "name":"CINC ZCL_BOOK_GENERATE_DATA========CCDEF.abap",
+   "fingerprint":"/qgkrrIspVBg/6LD7w4EEtqJAhSRLMPZT2UylVkb//dS7PK2Wmw/yRZEEy4ZY0sRTiKMPKATiP+crDp+dptqFQ=="
+  },
+  {
+   "name":"CINC ZCL_BOOK_GENERATE_DATA========CCIMP.abap",
+   "fingerprint":"xDlCZ9l1WsUq1Lzso7LaY9Km0A16l+AZ9TK1zA28jTGHhxt79N+H13YYlsBezJA7I5f5S6aUEgwNkQXiO9ssfg=="
+  },
+  {
+   "name":"CINC ZCL_BOOK_GENERATE_DATA========CCMAC.abap",
+   "fingerprint":"MG4r52p6SsYFhat0Mql8MX1TZr/jxh1SbD4O3XUSm55NyxH0XVpCkwv1rVdYte7yl20DrntHHxYGgJDAHE+HAw=="
+  },
+  {
+   "name":"CLAS ZCL_BOOK_GENERATE_DATA.asx.json",
+   "fingerprint":"IwIJSrzaXFUITg8ppG8hq15Y1wU5XYJtjma9vHhVT8T30//g/yG0Eb9IoQUS+FhPc6UZctf6kp9hcZI4q2DWow=="
+  },
+  {
+   "name":"CLSD ZCL_BOOK_GENERATE_DATA.abap",
+   "fingerprint":"Q1DowciGwwn9E1PomVJBDcCVpFllTrH88sHflPhd8fjVXikbP4wZYAChGoGix8gw/AdDFX4mvPmT5zvBu/3UJA=="
+  },
+  {
+   "name":"CPRI ZCL_BOOK_GENERATE_DATA.abap",
+   "fingerprint":"37fN1+Yh9lfNTMGlaGLjQdhqN2E6VC7tE2ADYHUArNy4Ml7iDRLp6DE8BDyqzYmducVX8HQ2wxolMkePfM1L3Q=="
+  },
+  {
+   "name":"CPRO ZCL_BOOK_GENERATE_DATA.abap",
+   "fingerprint":"tIa+9v3w5Cl69LWVPn3V4cO1S2BVcVNsYlPOSal9Z9G883tQvbvg0nrAWODn3ZEfalVeQOMxVEbpZiWJXyEI4w=="
+  },
+  {
+   "name":"CPUB ZCL_BOOK_GENERATE_DATA.abap",
+   "fingerprint":"2WA13n88HKAchJdTlyHN9ORCuzPx1Z0r24iLXRv2EbEegHzr0G+kUnvaJZjRKb6iSmTjQ5sa+aXbGgZmhqFfaQ=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"ye9dVVIW1KwoiO6ZNz3D3qpmJKBlVjKzw5igMwHPv/oB4SN+Xdp/PSbFlJiZw847NdVNWw+I5Mjd3xxYB9qeIQ=="
+  },
+  {
+   "name":"REPS ZCL_BOOK_GENERATE_DATA========CT.abap",
+   "fingerprint":"uh6nbqKQ07yv7h1XyYUuGHQgP25jCCugDWXctDdjCrvoa5jF/B8ouHZTj7rNvE8qIba5R8Jx4yoOZOjqETFoPA=="
+  }
+ ],
+ "fingerprintAll":"cPV8dQfQGGKUQqz4gjp9ndbigsGyAt5hsLWS6i1G+r4tOK/azS9BSl2mqY9wSWh6BcApMHIwmsGWAkmlM0b1XQ=="
+}
