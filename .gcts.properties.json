@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "ZABAP_CLOUD",
   "repositoryLayout": {
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/024C4F26E2141FD1B89711B46396593F_0",
     "format": "json",
-    "formatVersion": "6",
+    "formatVersion": "11",
+    "keepClient": "false",
     "metaInformation": ".gctsmetadata/",
-    "tableContent": "true",
-    "keepClient": "false"
+    "tableContent": "true"
   }
 }
