@@ -1,0 +1,47 @@
+[
+ {
+  "table":"/UI2/PGHEADC",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "ID":"ZRO",
+    "PARENT_PAGE_ID":"",
+    "MASTER_PAGE_ID":"",
+    "CREATED_BY":"SAP_CUSTOMER",
+    "CREATED_ON":"+020261115101324",
+    "MODIFIED_BY":"SAP_CUSTOMER",
+    "MODIFIED_ON":"+020261115101347",
+    "MASTER_LANGU":"E",
+    "DEVCLASS":"",
+    "MERGE_ID":""
+   }
+  ]
+ },
+ {
+  "table":"/UI2/PGHEADCT",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "LANGU":"E",
+    "ID":"ZRO",
+    "TITLE":"Library",
+    "DESCRIPTION":"Library Page"
+   }
+  ]
+ },
+ {
+  "table":"/UI2/PGSECC",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "PAGE_ID":"ZRO",
+    "ID":"BIEYWTKQ98WJ0YM5MFGNC5T8H",
+    "PARENT_SECTION_ID":"",
+    "IDX":1
+   }
+  ]
+ }
+]
