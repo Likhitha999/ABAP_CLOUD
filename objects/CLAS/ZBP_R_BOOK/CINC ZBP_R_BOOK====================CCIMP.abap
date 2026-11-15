@@ -1,4 +1,7 @@
-CLASS lhc_book DEFINITION INHERITING FROM cl_abap_behavior_handler.
+CLASS ltc_book_handler DEFINITION DEFERRED FOR TESTING.
+
+CLASS lhc_book DEFINITION INHERITING FROM cl_abap_behavior_handler
+  FRIENDS ltc_book_handler.
   PRIVATE SECTION.
     CONSTANTS:
       BEGIN OF book_status,
