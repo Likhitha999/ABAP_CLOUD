@@ -1,0 +1,12 @@
+{
+  "name": "zabap_cloud",
+  "version": "1.0.0",
+  "description": "ZABAP_CLOUD",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "keepClient": "false"
+  }
+}
