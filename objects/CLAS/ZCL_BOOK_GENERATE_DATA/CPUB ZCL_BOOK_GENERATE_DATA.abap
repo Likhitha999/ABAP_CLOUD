@@ -1,3 +1,4 @@
+ " This is a comment
 CLASS zcl_book_generate_data DEFINITION
   PUBLIC
   FINAL
