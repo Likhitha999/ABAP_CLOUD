@@ -15,7 +15,12 @@
        ( book_id = '00000005' title = 'Dune2'                          author = 'Frank Herbert'
         genre = 'Fiction'     price = '12.99' currency_code = 'USD' status = 'A' )
         ( book_id = '00000006' title = 'Integration Suite'                          author = 'Frank Herbert'
+        genre = 'Fiction'     price = '12.99' currency_code = 'USD' status = 'A' )
+        ( book_id = '00000006' title = 'Integration Suite'                          author = 'Frank Herbert'
+        genre = 'Fiction'     price = '12.99' currency_code = 'USD' status = 'A' )
+        ( book_id = '00000006' title = 'Integration Suite'                          author = 'Frank Herbert'
         genre = 'Fiction'     price = '12.99' currency_code = 'USD' status = 'A' ) ).
+
 
     LOOP AT books ASSIGNING FIELD-SYMBOL(<book>).
       TRY.
