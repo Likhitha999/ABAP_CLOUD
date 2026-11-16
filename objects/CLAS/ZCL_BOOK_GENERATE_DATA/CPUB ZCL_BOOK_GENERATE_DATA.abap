@@ -1,4 +1,4 @@
- " This is a de
+ " This is a
 CLASS zcl_book_generate_data DEFINITION
   PUBLIC
   FINAL
